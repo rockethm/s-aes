@@ -1,7 +1,4 @@
 # Implementação em Python do S-AES
-
-Esta implementação em Python do algoritmo Simplified AES (S-AES) oferece uma versão educacional e simplificada do AES padrão.
-
 ---
 ## Funcionalidades
 
